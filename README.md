@@ -1,2 +1,2 @@
-# improved-potato
+# SlimeVR Boards
 SlimeVR boards
